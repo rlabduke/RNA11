@@ -1,0 +1,13 @@
+Category	Residues	Percentage
+Ribosomes	15541	62.65
+Aptamers/Riboswitches	1773	7.14
+tRNAs	1641	6.61
+Ribozymes	1407	5.67
+Secondary Structure	961	3.87
+Viruses	956	3.85
+Protein Enzymes	784	3.16
+Other RNPs	414	1.67
+Small functional RNAs	348	1.40
+mRNAs	293	1.18
+RNAi	214	0.86
+Misc	471	1.9

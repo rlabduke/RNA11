@@ -1,0 +1,4 @@
+Category	Number	Percentage
+1a	14054	57.75
+non-1a	5678	23.33
+!!	4603	18.92

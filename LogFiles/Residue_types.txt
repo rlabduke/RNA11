@@ -1,0 +1,65 @@
+#Removed Protein Residues, i.e the Standard Amino Acids.
+#Removed Water i.e HOH
+#Removed Metals and Ions, i.e NO3, Zn, Cd, Na, Mn, Ca, Sr, Mg, Ba, Tb, Cs, Br, K, Co, Hg, Cl, IRI, IOD, SO4, POP, NCO, PO4, RHD, ACT, NH4, IUM, MMC
+#Other things removed, like ligands: PRF, CH1, BU1, VAA, SPM, C2E, MSP, MPD, MOH, MRD, NDG, FOU, CNC, 9DG, GOM, BTN, FOZ, APC, GNG, SAH, AM2, AMP 0G6, ATP, NHE
+# MPF, MNE, ET, AA, EL, TNP, AO, IDO, PF, TS6, CIT, LIV, 3AT, PAR, PPV, PEG, ACY, 3AW, PGE, IPA, EDO, PLR, TPP, ADP, 1PE, ANP, UNK, SAM, RIO, 5AZ, DAI, PYI, GLA, MRC, ROS, SRY, P6G, PG4, MGT, NVA, MES, BEF,# URI, FMN, CTC, GLP, SIN, MAN, PSD, DIO, AMO, GNP, SPD, SR4, CTP, GOL   
+#Modified Protein Residues: SCY, SEP, MSE, FME, 2AD
+RNA: 5FU	1       Base Modification, F instead of H5.    
+RNA: US5	1       Base Modification, Se and H added on C4 instead of O4.
+RNA: 1MA	3       Base Modification, CH3 added to position N1.
+RNA: O2C	1	What would you call it , 3' deoxy modified base, present in the rna chain at the end
+DNA: DG		13      Standard DNA Residue             
+RNA: XUG	2       Backbone Modification, Se instead of O2' and CH3 instead of HO2'. PDB calls this a DNA residue.
+RNA: S4C	2       Backbone Modification, S instead of O4'. Chi angle definition has to change. S instead of O4'. 
+RNA: YYG	1       Base Modification. Complicated Modification.
+RNA: N	        2       two examples where there is no base, and no H are being added.
+RNA: UD5	1       Base Modification, F added a C5 instead of H. 
+RNA: CSL	3       Backbone Modification, Se instead of O2' and CH3 instead of HO2'. PDb calls this a DNA residue.
+RNA: PSU	13      Base Modification. Base flipped. Chi angle should be O4'-C1'-C5-C4.
+RNA: 5IC	2       Base Modification. I instead of H at C5. No O2' hence no H on C2'.
+RNA: 5BU	41      Base Modification. Br instead of H at C5.
+RNA: M2G	4       Base Modification. CH3's instead of the two H at N2. Some H are not being displayed in KiNG.
+DNA: BGM	5       Base Modification. Br added at C8 instead of H.
+DNA: CBR	6       Base Modification. Br added at C5 instead of H.
+RNA: U34	2       Backbone Modification. C instead of O5' and then a OH added to the C. zeta of prev and alpha, beta gamma of current residue to be changedRNA: NF2	 2       Base Modification. New Residue. Chi angle O4'-C1'-C1-C2. so no N.
+RNA: 4SU	2       Base Modification. S instead of O4 on the base.
+DNA: U33	2       Base Modification. Br added to C5.
+RNA: GDP	2       Backbone Modification. Extra Phosphate group. alpha and beta change.
+DNA: DA	        2       Standard DNA Residue
+RNA: YG	        1       Base Modification. Complicated Modification.
+RNA: OMG	10      Backbone Modification. CH3 added at O2' instead of HO2'.
+RNA: H2U	13      Base Modification. Non-planar base. 2Hs at C5 and C6.
+RNA: 7MG	2       Base Modification. CH3 added at N7.
+RNA: 5MU	9       Base Modification. CH3 added at C5 instead of H.
+DNA: DC	        8       Standard DNA Residue
+RNA: A2M	2       Backbone Modification. CH3 added to O2' instead of H.
+RNA: 2MG	2       Base Modification. CH3 added to N2.
+RNA: G7M	2       Base Modification. CH3 added on N7. this is positively charged.
+RNA: OMU	4       Backbone Modification. CH3 added to O2' instead of H.
+DNA: DU		2       Standard DNA Residue.
+RNA: G46	1       Backbone Modification. One SH group on the Phosphate.
+RNA: FHU	6       Base Modification. Non Planar Base. Chi angle has to change. See it in the pdb file.
+RNA: OMC	10      Backbone Modification. CH3 added to O2' instead of H.
+RNA: 5MC	4       Base Modification. CH3 added on C5. Still Planar.
+RNA: A23	4       Backbone Modification. Cyclic. O3' and O2' are connected to a Phosphate group.
+RNA: CFZ	6   	Backbone Modification. F instead of O2'. PDB calls it DNA.
+DNA: BRU	6	Base Modification. Br on C5. 
+RNA: UMS	5       Backbone Modification. Se instead of O2' and additional on CH3 on Se. PDb calls it DNA.
+RNA: FMU	1       Base Modification. F and CH3 added on C5. Non-Planar Base.
+RNA: UR3	1       Base Modification. CH3 added to N3. 
+RNA: CFL	6       Backbone Modification. F instead of O2'. PDb calls it a DNA.
+RNA: P5P	1       Base Modification. The Base is just the scaffold of a purine base.
+RNA: +U		2       Base Modification. Not sure what the modification is. Hydrogens are not being added to the base.
+RNA: 1SC	1      Backbone Modification. One SH on the Phosphate group.
+RNA: UFT	7      Backbone Modification. F instead of O2'. PDB calls it a DNA.
+RNA: +C	        18     Base Modification. Not sure what the modification is. Hydrogens are not being added to the base.
+RNA: I	        6      Base Modification: Not sure what the modification is, Hydrogens are not being added.
+RNA: QUO	1     Base Modification. Weird Modification. Another ring added to the base.
+RNA: CCC	5     Backbone Modification. O2' and O3' connected to a Phosphate group.
+RNA: AVC	1     Backbone Modification. O2' and O3' connected to a vanadate group.
+DNA: DT	        4     Standard DNA Residue.
+RNA: GTP	12    Backbone Modification. 3 Phosphate groups instead of 1. 3A6P, it is a ligand, but for rest it is part of the chain
+RNA: TM2	1     Base Modification. Weird group added on the base.
+DNA/RNA: CB2	2     Base Modification. Br at C5. pdb says CBV, which is RNA, structure says CB2 which is dna. No Hydrogens on C2'. 
+RNA: AET	1    Base Modification. Weird group added on the base.
+RNA: IU	        4    Base Modification. I added at C5. 

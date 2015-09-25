@@ -1,0 +1,53 @@
+RNA: 5FU	U       Base Modification, F instead of H5.    
+RNA: US5	U       Base Modification, Se and H added on C4 instead of O4.
+RNA: 1MA	A       Base Modification, CH3 added to position N1.
+RNA: O2C	C	What would you call it , 3' deoxy modified base, present in the rna chain at the end
+RNA: XUG	G       Backbone Modification, Se instead of O2' and CH3 instead of HO2'. PDB calls this a DNA residue.
+RNA: S4C	C       Backbone Modification, S instead of O4'. Chi angle definition has to change. S instead of O4'. 
+RNA: YYG	-       Base Modification. Complicated Modification.
+RNA: UD5	U       Base Modification, F added a C5 instead of H. 
+RNA: CSL	C       Backbone Modification, Se instead of O2' and CH3 instead of HO2'. PDb calls this a DNA residue.
+RNA: PSU	U      Base Modification. Base flipped. Chi angle should be O4'-C1'-C5-C4.
+RNA: 5IC	C       Base Modification. I instead of H at C5. No O2' hence no H on C2'.
+RNA: 5BU	U      Base Modification. Br instead of H at C5.
+RNA: M2G	G       Base Modification. CH3's instead of the two H at N2. Some H are not being displayed in KiNG.
+DNA: BGM	G       Base Modification. Br added at C8 instead of H.
+DNA: CBR	C       Base Modification. Br added at C5 instead of H.
+RNA: U34	U       Backbone Modification. C instead of O5' and then a OH added to the C. zeta of prev and alpha, beta gamma of current residue to be changed 
+RNA: NF2	U       Base Modification. New Residue. Chi angle O4'-C1'-C1-C2. so no N.
+RNA: 4SU	U       Base Modification. S instead of O4 on the base.
+DNA: U33	U       Base Modification. Br added to C5.
+RNA: GDP	G       Backbone Modification. Extra Phosphate group. alpha and beta change.
+RNA: YG	        -       Base Modification. Complicated Modification.
+RNA: OMG	G      Backbone Modification. CH3 added at O2' instead of HO2'.
+RNA: H2U	U      Base Modification. Non-planar base. 2Hs at C5 and C6.
+RNA: 7MG	G       Base Modification. CH3 added at N7.
+RNA: 5MU	U       Base Modification. CH3 added at C5 instead of H.
+RNA: A2M	A       Backbone Modification. CH3 added to O2' instead of H.
+RNA: 2MG	G       Base Modification. CH3 added to N2.
+RNA: G7M	G       Base Modification. CH3 added on N7. this is positively charged.
+RNA: OMU	U       Backbone Modification. CH3 added to O2' instead of H.
+RNA: G46	G       Backbone Modification. One SH group on the Phosphate.
+RNA: FHU	U       Base Modification. Non Planar Base. Chi angle has to change. See it in the pdb file.
+RNA: OMC	C      Backbone Modification. CH3 added to O2' instead of H.
+RNA: 5MC	C       Base Modification. CH3 added on C5. Still Planar.
+RNA: A23	A       Backbone Modification. Cyclic. O3' and O2' are connected to a Phosphate group.
+RNA: CFZ	C   	Backbone Modification. F instead of O2'. PDB calls it DNA.
+DNA: BRU	U	Base Modification. Br on C5. 
+RNA: UMS	U       Backbone Modification. Se instead of O2' and additional on CH3 on Se. PDb calls it DNA.
+RNA: FMU	U       Base Modification. F and CH3 added on C5. Non-Planar Base.
+RNA: UR3	U       Base Modification. CH3 added to N3. 
+RNA: CFL	C       Backbone Modification. F instead of O2'. PDb calls it a DNA.
+RNA: P5P	A       Base Modification. The Base is just the scaffold of a purine base.
+RNA: +U		U       Base Modification. Not sure what the modification is. Hydrogens are not being added to the base.
+RNA: 1SC	C      Backbone Modification. One SH on the Phosphate group.
+RNA: UFT	U      Backbone Modification. F instead of O2'. PDB calls it a DNA.
+RNA: +C	        C     Base Modification. Not sure what the modification is. Hydrogens are not being added to the base.
+RNA: I	        -      Base Modification: Not sure what the modification is, Hydrogens are not being added.
+RNA: QUO	-     Base Modification. Weird Modification. Another ring added to the base.
+RNA: CCC	C     Backbone Modification. O2' and O3' connected to a Phosphate group.
+RNA: AVC	A     Backbone Modification. O2' and O3' connected to a vanadate group.
+RNA: GTP	G    Backbone Modification. 3 Phosphate groups instead of 1. 3A6P, it is a ligand, but for rest it is part of the chain
+RNA: TM2	U     Base Modification. Weird group added on the base.
+RNA: AET	A    Base Modification. Weird group added on the base.
+RNA: IU	        U    Base Modification. I added at C5. 

@@ -1,0 +1,312 @@
+PDB,NDB,resolution,description,RNA Chain,Protein Chain,EDS Map,Category
+1ET4,dr0004,2.3,Vitamin B12 Binding aptamer ,C,no,Yes,Aptamers and Riboswitches
+1F1T,ur0011,2.8,Malachite Green Aptamer,A,no,Yes,Aptamers and Riboswitches
+1F27,dr0005,1.3,Biotin Binding Aptamer Pseudoknot,AB,no,No,Aptamers and Riboswitches
+1NTB,dr0010,2.9,Streptomycin Binding aptamer,AB,no,No,Aptamers and Riboswitches
+1OOA,pr0094,2.45,aptamer Binding to Nuclear Factor NF Kappa B ,C,A,No,Aptamers and Riboswitches
+2JLT,na0288,2.9,TAR RNA Aptamer Kissing Loop,AB,no,Yes,Aptamers and Riboswitches
+3PDR,na0830,1.85,M box Riboswitch RNA,X,no,Yes,Aptamers and Riboswitches
+3DD2,pr0348,1.9,Aptamer Bound to Thrombin,B,HL,Yes,Aptamers and Riboswitches
+3EGZ,pr0350,2.2,tetracycline aptamer switch,B,A,Yes,Aptamers and Riboswitches
+5MSF,pr0001,2.8,ms2 virus aptamer,R,A,Yes,Aptamers and Riboswitches
+6MSF,prv010,2.8,ms2 virus F6 aptamer,R,A,Yes,Aptamers and Riboswitches
+3LA5,na0415,1.7,mc6 RNA Riboswitch bound to azacytosine,A,no,Yes,Aptamers and Riboswitches
+2XNZ,None,1.59,Guanine Riboswitch,A,no,Yes,Aptamers and Riboswitches
+3GX5,ur0198,2.4,SAM I Riboswitch,A,no,Yes,Aptamers and Riboswitches
+2HOJ,ur0099,2.5,thi box riboswitch,A,no,Yes,Aptamers and Riboswitches
+2QWY,ur0125,2.8,SAM II riboswitch,C,no,Yes,Aptamers and Riboswitches
+3D2V,dr0045,2,TPP specific riboswitch,A,no,Yes,Aptamers and Riboswitches
+3DIL,ur0149,1.9,T. maritima lys riboswitch ,A,no,Yes,Aptamers and Riboswitches
+3E5C,ur0166,2.25,SMK-box SAM III riboswitch,A,no,Yes,Aptamers and Riboswitches
+2YIE,na1278,2.94,FMN Riboswtich bound to FMN,XZ,no,Yes,Aptamers and Riboswitches
+3MXH,na0554,2.3,c di GMP riboswitch,R,P,No,Aptamers and Riboswitches
+3K1V,na0185,2.2,class I preQ1 riboswitch,A,no,Yes,Aptamers and Riboswitches
+3AGV,na0496,2.15,Human IgG Aptamer Complex,S,A,Yes,Aptamers and Riboswitches
+3SD3,na1169,1.95,TetraHydrofolate Riboswitch,A,no,Yes,Aptamers and Riboswitches
+3OWW,na0774,2.8,Glycine Riboswitch bound to Glycine,B,no ,No,Aptamers and Riboswitches
+3SKI,na1202,2.3,DG Riboswitch,A,no,Yes,Aptamers and Riboswitches
+3NPQ,na0621,2.18,S adenosylhomocysteine riboswitch,B,no,No,Aptamers and Riboswitches
+3Q3Z,na1008,2.51,c di GMP II riboswitch,V,no,Yes,Aptamers and Riboswitches
+3NVI,na0622,2.71,box C/D RNA,F,CD,Yes,boxes
+1SDR,arl062,2.6,dodecamer w/Shine-Dalgarno,AB,no,Yes,boxes
+2HVY,pr0224,2.3,H/ACA RNP,E,ABCD,Yes,boxes
+2RFK,pr0309,2.87,RNA archaeal H/ACA,DEF,ABC,No,boxes
+3HAX,pr0379,2.11,H/ACA RNP P. furiosus,EF,ACD,Yes,boxes
+3R2C,na1020,1.9,BoxA RNA,R,AJ,Yes,boxes
+2ASB,pr0174,1.5,BoxC RNA,B,A,Yes,boxes
+2HYI,pr0227,2.3,dead-box exon junction,L,GHIJ,Yes,Dead-box Proteins
+3EQT,pr0355,2,dead-box helicase/dsRNA ,CD,AB,Yes,Dead-box Proteins
+3FHT,pr0360,2.2,dead-box human helicase/RNA,D,B,Yes,Dead-box Proteins
+3I5X,na0086,1.9,dead-box prot w/polyU crimp,B,A,Yes,Dead-box Proteins
+3MOJ,na0529,2.9,dead-box helicase/ 23s RNA fragment,A,B,Yes,Dead-box Proteins
+3PEY,na0825,1.4,Dbp5 bound to RNA and ADP,B,A,Yes,Dead-box Proteins
+1QC0,ar0021,1.55,copy control duplex,CD,no,Yes,copy control
+1QCU,ar0020,1.2,another copy control duplex,AB,no,Yes,copy control
+1EC6,pr0022,2.4,hairpin w/protein,C,B,No,hairpin
+2ANN,pr0172,2.3,antigen w/hairpin,B,A,Yes,hairpin
+2ANR,pr0173,1.94,antigen w/hairpin,B,A,Yes,hairpin
+2QUX,pr0296,2.44,RNA hairpin w/PP7 coat,L,JK,Yes,hairpin
+1FXL,pr0033,1.8,C-FOS+HUD,B,A,Yes,HUD
+1WPU,pr0137,1.48,HUT mRNA w/prot,C,A,Yes,HutP antitermination complex
+3BOY,pr0310,1.7,HUT mRNA/antitermination,D,ABC,Yes,HutP antitermination complex
+1ZH5,pr0156,1.85,RNA w/Lupus La prot,C,A,Yes,Lupus La protein w/RNA
+2VON,None,2.1,human LA w/RNA oligomer,C,A,Yes,Lupus La protein w/RNA
+2VOO,None,1.8,human LA w/RNA oligomer,C,A,Yes,Lupus La protein w/RNA
+2VOP,None,2.8,human LA w/RNA oligomer,B,A,Yes,Lupus La protein w/RNA
+3FTF,pr0364,2.8,methyltransferase+duplex,CD,A,Yes,methyltransferase
+3OIN,na0689,1.9,Nep1/Emg1 N1-specific pseudouridine methyltransferase,C,AB,Yes,methyltransferase
+1S03,pr0111,2.7,mRNA w/rib. prot. S8,A,H,Yes,mRNA
+1ZBH,pr0153,3,histone mRNA w/exonuclease,F,AD,No,mRNA
+2HW8,pr0225,2.1,mRNA/L1 T. therm,B,A,Yes,mRNA
+3SNP,na1186,2.8,H IRE RNA,D,B,Yes,mRNA
+2J0S,pr0234,2.21,exon junction complex,E,ACDT,No,mRNA
+1YTY,pr0152,2.29, Nacent RNA POL III transcript,CD,AB,Yes,mRNA
+3MEI,na0505,1.97,Regulatory motif from the thymidylate synthase mRNA,AB,no,Yes,mRNA
+3GIB,pr0375,2.4,Complex of the E. coli Hfq with Poly(A) 2.4A,H,ABC,Yes,PolyA
+1CVJ,pr0007,2.6,polyA w/protein,Q,E,No,PolyA
+1J6S,ur0023,1.4,tetraplex,ABCD,no,Yes,multiplex
+1J8G,ur0014,0.61,tetraplex,ABCD,no,No,multiplex
+1MDG,ur0024,1.5,quadruple helix ,A,no,No,multiplex
+2AWE,ur0067,2.1,octaplex ,ABCD,no,Yes,multiplex
+2GRB,ur0090,1.4,quadruple helix inosine,ABCD,no,No,multiplex
+1YTU,pr0146,2.5,guide RNA w/Piwi,CD,A,Yes,piwi
+2BGG,pr0206,2.2,piwi w/siRNA,PQ,A,Yes,piwi
+3O3I,na0639,2.8,Hiwi1 PAZ domain in complex with 14-mer RNA,A,X,Yes,piwi
+3MJ0,na0522,2.31,Ago-PAZ domain in complex with 3'-end 2'-O-methylated RNA,B,A,Yes,piwi
+1L2X,ur0020,1.25,pseudoknot,A,no,Yes,pseudoknot
+1ZE2,pr0154,3,psu synthase w/RNA,C,A,Yes,pseudo-U synthase
+2AB4,pr0169,2.4,pseudo-U synthase w/RNA,B,A,Yes,pseudo-U synthase
+2I82,pr0229,2.05,RNA w/pseudoU synthase,E,A,Yes,pseudo-U synthase
+1R3E,pr0105,2.1,RNA w/tRNA pseudoU synthase,DE,A,Yes,pseudo-U synthase
+3Q0S,na0882,2,PUMILIO-homology domain from Human PUMILIO2 in complex with erk2 NRE,B,A,Yes,Puf/pumilio
+3BSX,pr0315,2.32,pumilio w/Puf5 RNA,C,A,Yes,Puf/pumilio
+3BX2,pr0316,2.84,puf4+ho endonuclease RNA,C,A,Yes,Puf/pumilio
+3K49,na0197,2.5,Puf3/RNA,F,E,Yes,Puf/pumilio
+3QGC,na0936,1.9,FBF-2 R288Y mutant in complex with gld-1 FBEa A7U mutant,B,A,Yes,Puf/pumilio
+2A8V,pr0008,2.4,rho TTF w/RNA,E,B,No,rho
+3ICE,na0090,2.8,rho w/polyU,G,ABCDEF,Yes,rho
+3CC2,rr0202,2.4,50S rRNA H. marismortui,90,ABCDEFGHIJKLMNOPQRSTUVWXYZ123,No,Ribosome subunits
+2ZJR,rr0217,2.91,D. radiodurans 50S,XY,ABCDEFGHIJKLMNOPQRSTUVWZ1234,Yes,Ribosome subunits
+2J01,rr0154,2.8,T. thermophilus 70S (50S),AB,CDEFGHIJKLMNOPQRSTUVWXYZ0123456789,No,Ribosome subunits
+2VQE,None,2.5,T. therm 30S w/odd tRNA,AXY,BCDEFGHIJKLMNOPQRSTU,Yes,Ribosome subunits
+3R8O,na1047,3,E.coli 30S Ribosome,AVX,BCDEFGHIJKLMNOPQRSTUY,No,Ribosome subunits
+3R8T,na1048,3,E.coli 50S Ribosome,AB,CDEFGHIJKLMNOPQRSTUVWXYZ01234,No,Ribosome subunits
+1F7Y,rr0010,2.8,two UUCG tetraloops w/S15,B,A,No,Ribosome Fragments
+1G1X,None,2.6,"16S frag w/S6 S15 S18",DE,ABC,No,Ribosome Fragments
+1I6U,pr0047,2.6,M. jannaschii rRNA w/S8P,C,A,Yes,Ribosome Fragments
+1MJI,pr0083,2.5,rRNA 5S/L5,C,A,Yes,Ribosome Fragments
+1MMS,rr0009,2.57,T. maritima rRNA/L11,C,A,Yes,Ribosome Fragments
+3DVZ,ur0161,1,Sarcin/Ricin Domain from E. coli 23 S rRNA,A,no,Yes,Ribosome Fragments
+1Q96,ur0034,1.75,sarcin/ricin domain of rat 28S,AC,no,Yes,Ribosome Fragments
+1T0E,ur0038,1.7,bacterial A-site RNA,AC,no,Yes,Ribosome Fragments
+2BH2,pr0251,2.15,E. coli rRNA/Ruma,C,A,No,Ribosome Fragments
+2OE5,dr0035,1.51,human ribosomal decoding,AB,no,Yes,Ribosome Fragments
+354D,url064,1.5,rRNA 5S loop E,AB,no,No,Ribosome Fragments
+3BNS,ar0091,1.9,human mit. decoding A site,CD,no,Yes,Ribosome Fragments
+3R9W,na1070,2.05,Era in complex with 16S ribosomal RNA,B,A,Yes,Ribosome Fragments
+1DFU,pr0018,1.8,E.coli L25+5S fragment,MN,P,No,Ribosome Fragments
+1DQF,ar0026,2.2,Helix II of X. Laevis 5S fragment,AB,no,Yes,Ribosome Fragments
+1FEU,rr0012,2.3,5S Fragment + TL5,BC,A,Yes,Ribosome Fragments
+1MZP,pr0085,2.65,L1 Protuberance in 23S ribosome,B,A,Yes,Ribosome Fragments
+353D,urx063,2.4,domian A of thermus flavus 5S,AB,no,No,Ribosome Fragments
+364D,url069,3,E.Coli fragment 1 5S: related to 354D,ABC,no,No,Ribosome Fragments
+3AEV,na0448,2.8,eIF2alpha-aDim2p-rRNA complex from Pyrococcus horikoshii OT3,C,AB,Yes,Ribosome Fragments
+2OEU,ur0108,2,full-length hammerhead,AB,no,Yes,Ribozymes
+359D,urx067,2.9,RNA hammerhead ribozyme,AB,no,Yes,Ribozymes
+1HMH,None,2.6,rna/dna hammerhead pieced,E,F,No,Ribozymes
+3NKB,na0604,1.9,HDV Ribozyme,B,A,Yes,Ribozymes
+2R8S,pr0294,1.95,P4-P6 RNA ribozyme domain,R,LH,Yes,Ribozymes
+3G78,ur0190,2.8,Full group II intron,AZ,no,Yes,Ribozymes
+1M5O,pr0075,2.2,hairpin ribozyme catalytic,AB,C,Yes,Ribozymes
+2OUE,ur0109,2.05,hairpin ribozyme,ABCD,no,Yes,Ribozymes
+2OIU,ur0110,2.6,L1 RNA ligase,PQ,no,Yes,Ribozymes
+1NUJ,ur0028,1.8,leadzyme,CDEF,no,No,Ribozymes
+1YLS,ur0055,3,Diels-Alder ribozyme,CD,no,Yes,Ribozymes
+2Z75,ur0124,1.7,GlmS ribozyme,AB,no,Yes,Ribozymes
+3CUL,pr0340,2.8,aa-tRNA synth ribozyme,D,B,Yes,Ribozymes
+1B2M,pr0012,2,dinuc w/ribonuclease,DE,B,No,RNases
+1U9S,ur0040,2.9,spec. domain ribonuclease P,A,no,Yes,RNases
+2A1R,pr0166,2.6,RNA w/ribonuclease,C,A,Yes,RNases
+2BX2,pr0253,2.85,cat. domain E. coli RNAse E,R,L,Yes,RNases
+2IX1,pr0236,2.74,RNAse II/RNA,B,A,Yes,RNases
+2PO1,pr0271,1.94,P. abyssi RNase PH w/polyA,C,AB,Yes,RNases
+2EZ6,pr0185,2.05,RNAse III w/RNA,CD,AB,Yes,RNases
+2NUE,pr0239,2.9,ds RNA w/RNAse III,C,AB,Yes,RNases
+2GJW,pr0197,2.85,Splicing endonuclease,EFH,AB,Yes,RNases
+2NUG,pr0241,1.7,RNAse III with ds-RNA,CDEF,AB,Yes,RNases
+2FK6,pr0190,2.9,Crystal Structure of RNAse Z/tRNA(Thr) complex,R,A,Yes,RNases
+3IAB,na0097,2.7,P3 domain of RNase MRP RNA,R,AB,Yes,RNases
+3T3O,na1255,2.5,endoribonuclease RNase J,B,A,Yes,RNases
+2Y8Y,None,1.44,CRISPR ENDORIBONUCLEASE CSE3 BOUND TO 19 NT RNA,B,A,Yes,Crispr endonucleases
+2XLK,None,1.8,"CSY4-CRRNA COMPLEX CRISPR Endonuclease",C,A,Yes,Crispr endonucleases
+1YVP,pr0151,2.2,RNA w/autoantigen Ro,EFH,B,Yes,ro
+2I91,pr0232,2.65,RNP/RNA,EF,B,Yes,ro
+2PJP,pr0285,2.3,secis-RNA w/EF,B,A,Yes,secis
+1R9F,pr0106,1.85,19bp siRNA w/p19,BC,A,Yes,siRNA
+2F8S,pr0188,3,AA-ago w/siRNA,CD,A,Yes,siRNA
+2ZI0,pr0334,2.82,Tomato aspermy virus/siRNA,CD,AB,Yes,siRNA
+3A6P,na0142,2.92,pre-miRNA complex at 2.92A ,IJ,FGH,Yes,miRNA
+1A9N,ptr016,2.38,U2 fragment w/protein,Q,AB,Yes,Sm/LSm/snRNA
+1I5L,pr0046,2.75,small w/Sm1-prot,Y,HIJKLMN,Yes,Sm/LSm/snRNA
+1KQ2,pr0065,2.71,HFQ-beta/RNA,R,ABHIKM,Yes,Sm/LSm/snRNA
+1M8V,pr0078,2.6,U heptamer w/SM protein,P,CK,Yes,Sm/LSm/snRNA
+1URN,prv002,1.92,u1a/RNA,Q,B,Yes,Sm/LSm/snRNA
+2G4B,pr0195,2.5,U2AF65 w/polyU,B,A,Yes,Sm/LSm/snRNA
+3SIU,na1177,2.63,hPrp31-15.5K-U4atac 5' stem loop complex,F,DE,Yes,Sm/LSm/snRNA
+3CGP,ar0093,1.57,yeast U2 snRNA-intron site,AB,no,Yes,Sm/LSm/snRNA
+1JBS,pr0052,1.97,SRD RNA inhibitor w/prot,D,B,Yes,SRD
+1D4R,ar0024,2,human SRP helix 6 fragment,AB,no,Yes,SRP
+3LQX,na0445,1.93,SRP ribonucleoprotein core,B,A,Yes,SRP
+1LNG,pr0073,2.3,SRP19 complex M. janaaschii,B,A,No,SRP
+1LNT,ar0041,1.7,RNA internal loop of SRP,AB,no,Yes,SRP
+2ZUE,pr0357,2,arg-tRNA w/synth,B,A,Yes,tRNAs
+1EHZ,tr0001,1.93,tRNA (phe) ,A,no,Yes,tRNAs
+1EVV,tr0002,2,tRNA (phe) ,A,no,Yes,tRNAs
+1U0B,pr0135,2.3,tRNA (cys) w/prot,A,B,Yes,tRNAs
+1GTR,ptr003,2.5,tRNA (gln) w/synth,B,A,No,tRNAs
+1N78,pr0090,2.1,tRNA (glu) w/prot,C,A,Yes,tRNAs
+1FFY,pr0032,2.2,tRNA (ile) w/synth,T,A,No,tRNAs
+2BTE,pr0252,2.9,tRNA (leu) w/prot,B,A,Yes,tRNAs
+2CT8,pr0162,2.27,tRNA (met) w/synth,C,A,Yes,tRNAs
+1H4S,pr0057,2.85,tRNA (pro) w/synth,T,AB,Yes,tRNAs
+3HL2,na0004,2.81,Secys-tRNA/Se transferase,E,ABCD,Yes,tRNAs
+1SER,ptr004,2.9,tRNA (ser) w/prot,T,AB,No,tRNAs
+1QF6,pr0006,2.9,tRNA (thr) w/prot,B,A,Yes,tRNAs
+2AZX,pr0176,2.8,tRNA (trp) w/synthetase,C,A,Yes,tRNAs
+1J1U,pr0092,1.95,tRNA (tyr),B,A,Yes,tRNAs
+1GAX,pr0029,2.9,tRNA (val),D,B,No,tRNAs
+1K8W,pr0060,1.85,tRNA stem-loop w/prot,B,A,Yes,tRNAs
+1Q2R,pr0101,2.9,piece of tRNA,E,AB,Yes,tRNAs
+2B3J,pr0180,2,deaminase w/tRNA piece,H,D,Yes,tRNAs
+3OVA,na0760,1.98,CCA-adding Enzyme with tRNA,C,A,Yes,tRNAs
+2VUQ,na0011,1.18,tRNA gly microhelix,AB,no,Yes,tRNAs
+3BT7,pr0329,2.43,T-arm analogue,D,B,Yes,tRNAs
+1C0A,pr0019,2.4,tRNA (asp) E.coli,B,A,Yes,tRNAs
+2FMT,pr0059,2.8,tRNA(FMET),C,A,No,tRNAs
+2V6W,None,1.8,tRNA(Ser) acceptor step microhelix,AB,no,Yes,tRNAs
+3KFU,na0655,3,transamidosome,L,B,Yes,tRNAs
+3RG5,na1076,2,tRNA(Sec),A,no,Yes,tRNAs
+1MHK,ur0025,2.5,hook-turn,LS,no,No,turns
+1SDS,pr0113,1.8,K-turn box ACA,F,C,Yes,turns
+1CSL,ar0023,1.6,HIV RRE,AB,no,Yes,viruses
+1DUQ,ar0028,2.1,HIV rev binding element,EF,no,No,viruses
+1JZV,ar0035,1.7,helix bulged from HIV-1,ABCD,no,Yes,viruses
+398D,ahh0114,1.94,3'-DNA-RNA-5' junction formed during initiation of minus-strand synthesis of HIV replication.,AB,no,Yes,viruses
+2FD0,dr0026,1.8,HIV-DIS (kissing)/livido.,AB,no,Yes,viruses
+2OIY,ar0075,1.6,HIV(Lai)-DIS,AB,no,Yes,viruses
+3C3Z,dr0041,1.5,HIV-DIS,AB,no,Yes,viruses
+2BU1,pr0202,2.2,MS2/RNA,S,C,Yes,viruses
+1A34,prv020,1.81,sat. tobacco mosaic virus,BC,A,Yes,viruses
+1DDL,pr0017,2.7,desm. ylw mottle virus 7+2rna,DE,ABC,Yes,viruses
+1F8V,pr0036,3,pariacoto virus,R,ABCDEF,Yes,viruses
+1H2C,pr0237,1.6,ebola virus,R,A,Yes,viruses
+1N35,pr0087,2.5,pol lambda3 reovirus (4),BC,A,Yes,viruses
+1UVJ,None,1.9,phi6 pol w/7nt RNA,E,B,Yes,viruses
+1XOK,pr0141,3,alfalfa mosaic coat w/UTR,AB,CD,Yes,viruses
+1XJR,ur0044,2.7,RNA from SARS,A,no,Yes,viruses
+2A43,ur0066,1.34,luteoviral RNA pseudoknot,A,no,Yes,viruses
+2BBV,prv004,2.8,black beetle virus w/RNA,N,C,No,viruses
+2E9T,pr0263,2.6,fmv pol w/RNA,BC,A,Yes,viruses
+2FZ2,pr0191,2.9,turnip yellow virus w/RNA,D,ABC,Yes,viruses
+3PTX,na0860,3,stomatitis virus nucleocapsid-polyA complex,R,ABCDE,No,viruses
+2JLV ,None,1.9,dengue virus helicase/ssRNA,D,B,Yes,viruses
+2R7R,pr0297,2.6,rotavirus polymerase/RNA,X,A,Yes,viruses
+2ZKO ,pr0337,1.7,influenza NS1/RNA,CD,AB,Yes,viruses
+3B31,ur0129,2.4,viral RNA (cricket paral),AB,no,Yes,viruses
+3BSO,pr0314,1.75,Norwalk viral pol w/RNA,PT,A,Yes,viruses
+3GPQ,pr0376,2,Chikungunya vir w/AAA,E,A,Yes,viruses
+1AV6,prv007,2.8,6mer w/vaccinia viral methtransf,B,A,Yes,viruses
+3ER9,pr0356,2.06,vaccinia mRNA pol w/UU,D,AB,Yes,viruses
+1KNZ,pr0063,2.45,rotavir. mRNA w/prot,W,AB,No,viruses
+1KH6,ur0018,2.9,tert. domain for HCV,A,no,Yes,viruses
+1NB7,pr0091,2.9,HC-J4 polymerase (hepC),E,A,No,viruses
+2PN4,ar0078,2.32,hep. C ires subdomain,AB,no,No,viruses
+1BMV,prv001,3,bean pod mottle virus,M,12,No,viruses
+1PGL,pr0099,2.8,bean pod mottle virus,3,12,Yes,viruses
+2AZ0,pr0181,2.6,flock house virus/dsRNA,CD,AB,Yes,viruses
+2Z2Q,pr0287,2.7,Flock house virus coat,R,ABCDEF,Yes,viruses
+3KMS,na0351,2.2,foot-and-mouth disease virus RNA-polymerase in complex with a template- primer RNA trigonal structure,BC,A,No,viruses
+2XDB,None,2.55,NON-CODING RNA BACTERIAL ANTIVIRAL SYSTEM,G,A,Yes,viruses
+3P22,na0799,2.5,ENE a viral RNA stability element in complex with A9 RNA,EF,no,Yes,viruses
+3OL9,na0705,2.25,Poliovirus polymerase elongation complex,BCD,A,Yes,viruses
+3RW6,na1110,2.3,nuclear RNA export factor TAP bound to CTE RNA,F,A,Yes,viruses
+3O8C,na0745,2,NS3 Helicase from HCV with RNA,C,AB,Yes,viruses
+3D2S,pr0347,1.7,MBNL1 zinc finger w/RNA,EF,AB,Yes,zinc finger
+3G9Y,pr0367,1.4,zinc finger w/AGGUAA,C,A,Yes,zinc finger
+2GXB,pr0210,2.25,Z-RNA w/protein,EF,AB,Yes,Z-RNA
+None,arb002,0.8,dh AU w/Na,AB,no,no,dinucleotides and other tiny things
+None,arb003,1.1,dh GC w/Ca,AB,no,no,dinucleotides and other tiny things
+None,arb004,0.89,dh GC w/Na,A,no,no,dinucleotides and other tiny things
+None,arb005,0.85,dh GC w/ammonium,A,no,no,dinucleotides and other tiny things
+None,drb002,0.9,ss AA w/proflavine,A,no,no,dinucleotides and other tiny things
+None,drb003,1,ss AU w/9-aminoacridine,A,no,no,dinucleotides and other tiny things
+None,drb005,0.8,dh CA w/proflavine,A,no,no,dinucleotides and other tiny things
+None,drb007,1.34,dh CG w/ethidium,AB,no,no,dinucleotides and other tiny things
+None,drb008,0.85,dh CG w/proflavine,A,no,no,dinucleotides and other tiny things
+None,drb018,1.1,dh UA w/ethidium,AB,no,no,dinucleotides and other tiny things
+None,drbb01,1.1,dh CG w/acridine orange,AB,no,no,dinucleotides and other tiny things
+None,drbb09,1.3,dh CG w/9-aminoacridine,AB,no,no,dinucleotides and other tiny things
+None,drbb11,1.542,dh CG w/ellipticine,AB,no,no,dinucleotides and other tiny things
+None,drbb12,1.14,dh CG w/ethidium,AB,no,no,dinucleotides and other tiny things
+None,drbb13,1.14,dh CG w/MNAED,AB,no,no,dinucleotides and other tiny things
+None,drbb14,0.86,dh CG w/drug,AB,no,no,dinucleotides and other tiny things
+None,drbb15,1.09,"dh CG w/drug I",AB,no,no,dinucleotides and other tiny things
+None,drbb16,1.3,dh CG w/proflavine,AB,no,no,dinucleotides and other tiny things
+None,drbb17,1.344,dh CG w/drug,AB,no,no,dinucleotides and other tiny things
+None,drbb19,1.34,dh UA w/ethidium,AB,no,no,dinucleotides and other tiny things
+None,drd004,1,dh CA/UG w/proflavine,AB,no,no,dinucleotides and other tiny things
+None,urb003,1,ss AA w/Ca,A,no,no,dinucleotides and other tiny things
+None,urb008,1,ss UA ,AB,no,no,dinucleotides and other tiny things
+None,urb016,0.86,ss UA,AB,no,no,dinucleotides and other tiny things
+None,urc002,0.95,ss AAA,A,no,no,dinucleotides and other tiny things
+157D,arl048,1.8,double helix,AB,no,Yes,miscellaneous helix:
+165D,ah1b53,1.55,"duplex w/non-loop UUCG BrU",AB,no,No,miscellaneous helix
+1DI2,pr0020,1.9,double helix w/protein,CD,AB,Yes,miscellaneous helix
+1FUF,ar0029,1.7,helix bulged (Br),AB,no,Yes,miscellaneous helix
+1J9H,ar0034,1.4,helix bulged,AB,no,No,miscellaneous helix
+1KD5,ar0038,1.58,helix w/o metal,AB,no,Yes,miscellaneous helix
+1OSU,urf042,1.4,double helix w/U-U,A,no,Yes,miscellaneous helix
+1RXB,arh064,1.8,CCCCGGGG rhombohedral,AB,no,No,miscellaneous helix
+1ZEV,ar0062,1.58,CUG repeats dh,AB,no,No,miscellaneous helix
+255D,arl037,2,A double helix,A,no,No,miscellaneous helix
+259D,arh074,1.46,A double helix,AB,no,No,miscellaneous helix
+2G3S,ar0067,1.499,dh w/GU,AB,no,Yes,miscellaneous helix
+2Q1O,ar0080,1.1,RNA 12mer w/NF2,AB,no,Yes,miscellaneous helix
+2R22,ar0084,1.4,natural tridecamer,AB,no,Yes,miscellaneous helix
+2R1S,ar0084,1.4,RNA brominated tridecamer,AB,no,Yes,miscellaneous helix
+377D,arf0108,1.76,A-form dh hexamer,AB,no,No,miscellaneous helix
+397D,urx075,1.3,dh w/bulge,AB,no,Yes,miscellaneous helix
+3CJZ,ar0097,1.8,dh with m22G:A pairs,AB,no,Yes,miscellaneous helix
+3CZW,ar0098,1.4,dh with GG pairs,X,no  ,Yes,miscellaneous helix
+3FS0,ar0101,2.3,ligase ribozyme prod/templ.,AB,no,Yes,miscellaneous helix
+3GLP,ar0103,1.23,GCUGCUGC duplex,CD,no,Yes,miscellaneous helix
+3GM7,ar0104,1.58,CUG repeats,GH,no,No,miscellaneous helix
+3HGA,na0002,1.3,4-Se-U UUCGCG,X,no,Yes,miscellaneous helix
+406D,ar0003,1.8,dh RNA w/bromination,AE,no,No,miscellaneous helix
+413D,ar0005,1.8,dh RNA,A,no,No,miscellaneous helix
+420D,ar0006,1.9,dh RNA w/mismatches,AB,no,No,miscellaneous helix
+434D,ar0009,1.16,dh RNA w/wobble,AB,no,No,miscellaneous helix
+439D,ar0012,1.6,dh RNA,AB,no,Yes,miscellaneous helix
+466D,ar0013,1.16,dh RNA,CD,no,Yes,miscellaneous helix
+472D,ar0022,1.9,dh RNA w/mismatches,AB,no,Yes,miscellaneous helix
+1Z7F,ar0061,2.1,RNA duplex containing a C-A mismatch,ABC,no,Yes,miscellaneous helix
+2A0P,ar0063,1.95,Crystal structure of RNA oligomer containing 4'-thioribose,AB,no,Yes,miscellaneous helix
+2G91,ar0069,1.5,Crystal Structure Analysis of the an RNA nonamer r(GGUGCGC)d(BrC)r(C),AB,no,No,miscellaneous helix
+409D,ar0004,2.5,THREE INDEPENDENT DUPLEXES INCORPORATING TANDEM I.U WOBBLES,AB,no,No,miscellaneous helix
+1B7F,pr0011,2.6,ss w/sex-lethal protein,P,A,No,Misc
+1ZL3,pr0160,2.8,stem-loop w/prot,B,A,Yes,Misc
+2F8K,pr0186,2,SAM w/ssRNA,B,A,Yes,Misc
+2H1M,ar0070,2.9,selenomet G RNA,AB,no,Yes,Misc
+2PY9,pr0273,2.56,polyC-binding/RNA,F,AC,No,Misc
+3DH3,pr0349,3,RLUF w/RNA hairpin,E,A,Yes,Misc
+3HJW,pr0383,2.35,psU-synth+L7Ae+RNA,DE,ABC,Yes,Misc
+3IE1 ,na0094,2.85,T. therm TTHA0252/RNA,F,B,Yes,Misc
+3NNA,na0611,1.9,CUGBP1 RRM1/2-RNA Complex,B,A,Yes,Misc
+3PF5,na0829,1.68,Bs-CspB in complex with rU6,R,A,Yes,Misc
+3P59,na0813,2.18,RNA Nanosquare,ABCDEFG,no,No,Misc
+2X1F,None,1.6,RNA15 RRM WITH BOUND RNA (GU),B,A,Yes,Misc
+3RER,na1072,1.7,E. coli Hfq in complex with AU6A RNA and ADP,K,ABCDEF,Yes,Misc
+2XS5,na1038,1.6,"RRM DOMAIN OF MOUSE COMPLEX WITH MVH RNA",C,A,Yes,Misc
+3M7N,na0481,2.4,exosome with RNA bound ,X,ADG,Yes,Misc
+3MDI,na0511,2.07,Subunit of Human Cleavage factor Im in complex with RNA ,C,AB,No,Misc
+2XNR,None,1.6,NAB3-RRM with non-polyadenylated RNA,C,A,Yes,Misc
